@@ -1,0 +1,16 @@
+# Ignore Jupyter checkpoint directories
+.ipynb_checkpoints/
+
+# Ignore Python cache/compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables
+.env
+
+# Ignore OS-specific files (Mac)
+.DS_Store
+
+# Ignore IDE-specific files (VSCode, PyCharm)
+.vscode/
+.idea/
